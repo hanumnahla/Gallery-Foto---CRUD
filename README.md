@@ -1,1 +1,1 @@
-# Gallery-Foto---CRUD
+# Gallery-Foto-CRUD
